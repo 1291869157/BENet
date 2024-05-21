@@ -20,5 +20,11 @@ Since the methods of comparison lack sufficient boundary information, other's pr
 <div align="center">
   <img src="https://github.com/1291869157/BENet/blob/main/fig13.jpg" width="60%">
 </div>
-We qualitatively compare the methods from the two metrics of $F_{\beta}$ and MAE. As shown in table, we can see that our BENet model achieves the best metrics on most datasets, which shows that our model is effective and robust.
+We qualitatively compare the methods from the two metrics. As shown in table, we can see that our BENet model achieves the best metrics on most datasets, which shows that our model is effective and robust.
+
+## References
+1. Zhao, J.X., Liu, J.J., Fan, D.P., et al.: EGNet: edge guidance network for salient object detection. In: Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 8779–8788 (2019)
+2. Qin, X., Zhang, Z., Huang, C., et al.: Basnet: boundary-aware salient object detection. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 7479–7489 (2019)
+3. Li, X., Yang, F., Cheng, H., et al.: Contour knowledge transfer for salient object detection. In: Proceedings of the European Conference on Computer Vision (ECCV), pp. 355–370 (2018)
+
 
