@@ -20,5 +20,5 @@ Since the methods of comparison lack sufficient boundary information, other's pr
 <div align="center">
   <img src="https://github.com/1291869157/BENet/blob/main/fig13.jpg" width="60%">
 </div>
-
+We qualitatively compare the methods from the two metrics of $F_{\beta}$ and MAE. As shown in table, we can see that our BENet model achieves the best metrics on most datasets, which shows that our model is effective and robust.
 
