@@ -18,7 +18,7 @@ Since the methods of comparison lack sufficient boundary information, other's pr
 
 #### Quantitative Comparison
 <div align="center">
-  <img src="https://github.com/1291869157/BENet/blob/main/fig13.jpg">
+  <img src="https://github.com/1291869157/BENet/blob/main/fig13.jpg" width="60%">
 </div>
 
 
