@@ -4,7 +4,7 @@ Although deep convolutional networks have achieved good results in the field of 
 ## Proposed Method
 
 <div align="center">
-  <img src="https://github.com/1291869157/BENet/blob/main/fig11.png" width="80%">
+  <img src="https://github.com/1291869157/BENet/blob/main/fig11.png" width="90%">
 </div>
 
 In this paper, we propose a novel boundary enhance network. The model contains multiple sub-networks. The Progressive Feature Extraction Module (PFEM) is used to capture the boundary features and salient object features of salient objects at multiple scales. The Edge Enhance Module (EEM) consists of a series of Adaptive Edge Fusion Modules (AEFM) to balance the fusion of edge features and salient object features. To make the network pay more attention to the details of the boundary region, we design a edge enhancement loss to give higher weights near the boundary. 
