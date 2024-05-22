@@ -3,11 +3,10 @@ BENet: Boundary Enhance Network for Salient Object Detection
 
 ## Trained Model
 Please download the trained model and put it in "pretrained_model":
-
 Link: https://pan.baidu.com/s/19_AijbRIuKAV6dSnEB_zNw,  &nbsp;  code: grap 
+<br>
 
 Please download the initial model and put it in "initial_model":
-
 Link: https://pan.baidu.com/s/17mzR8tkZnX5--zuUJFkT9A, &nbsp;  code: 4y4q  
 
 ## Introduction
