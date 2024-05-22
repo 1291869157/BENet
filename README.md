@@ -32,7 +32,9 @@ Since the methods of comparison lack sufficient boundary information, other's pr
 <div align="center">
   <img src="https://github.com/1291869157/BENet/blob/main/fig13.jpg" width="60%">
 </div>
-We qualitatively compare the methods from the two metrics. As shown in table, we can see that our BENet model achieves the best metrics on most datasets, which shows that our model is effective and robust.<br>
+We qualitatively compare the methods from the two metrics. As shown in table, we can see that our BENet model achieves the best metrics on most datasets, which shows that our model is effective and robust.
+<br>
+<br>
 
 We provide saliency maps of our model on five benchmark saliency dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S) as below:
 Link: https://pan.baidu.com/s/1pd-C1prTDrv1asw5M0LpBg, &nbsp;   code: vc87 
