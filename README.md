@@ -34,6 +34,7 @@ Since the methods of comparison lack sufficient boundary information, other's pr
 </div>
 We qualitatively compare the methods from the two metrics. As shown in table, we can see that our BENet model achieves the best metrics on most datasets, which shows that our model is effective and robust.
 
+
 We provide saliency maps of our model on five benchmark saliency dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S) as below:
 Link: https://pan.baidu.com/s/1pd-C1prTDrv1asw5M0LpBg, &nbsp;   code: vc87 
 
