@@ -38,7 +38,6 @@ We qualitatively compare the methods from the two metrics. As shown in table, we
 
 We provide saliency maps of our model on five benchmark saliency dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S) as below:
 <br>
-<br>
 
 Link: https://pan.baidu.com/s/1pd-C1prTDrv1asw5M0LpBg, &nbsp;   code: vc87 
 
